@@ -11,6 +11,8 @@ if circle won then a message pop up Called circle win's and same for cross as we
 draw will pop up.
 you can reset the game by clicking reset buutton means all the 9 items will be back to its inital pen state.
 
+# SCREENSHOTS
+<img src="./ss.png" />
 
 ## What topics i learnt after this
 I learnt about Image Assets, Row Widget, Column widget, Sized Button widget and most important i learnt is Grid Widget.
